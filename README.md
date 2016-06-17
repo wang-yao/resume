@@ -1,1 +1,1 @@
-[](https://github.com/wang-yao/resume/blob/master/resume.html)
+[resume](https://github.com/wang-yao/resume/blob/master/resume.html)
