@@ -1,7 +1,7 @@
 [**个人简历**](http://htmlpreview.github.com/?https://github.com/wang-yao/resume/blob/master/resume.html)<br />
 
 ###### 王瑶<br />
-男|户籍:山西 临汾|出生日期:1990-09-20|现居:成都洗面桥街8号<br />
+男<br />
 ###### 工作经历<br />
 <table>
 
