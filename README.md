@@ -1,7 +1,7 @@
 [**个人简历**](http://htmlpreview.github.com/?https://github.com/wang-yao/resume/blob/master/resume.html)<br />
 
 ###### 王瑶<br />
-男<br />
+男|出生日期:1990<br />
 ###### 工作经历<br />
 <table>
 
