@@ -4,4 +4,4 @@
 
 Android开发工作者，参与过多款商业应用研发及上线运营工作<br />
 
-![resume-code](https://github.com/wang-yao/resume/blob/master/url.png)
+![url](https://github.com/wang-yao/resume/blob/master/url.png)
